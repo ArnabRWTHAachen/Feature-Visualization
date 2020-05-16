@@ -1,4 +1,4 @@
-# Feature-Visualization
+# Unsupervised Feature Selection for Efficient Exploration of High Dimensional Data
 1. Here we present the results of the evaluation using all the 9 datasets.
 2. QuantativeEvaluationResults.pdf gives the full evaluation resutls
 3. QualitativeEvaluationWithVisualizations gives the resultant visualizations. The results shows a clutterless and better interpretable visualizations in a low dimensional feature space compared to the visualizations in a high dimensional space. 
